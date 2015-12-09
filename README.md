@@ -1,5 +1,8 @@
 # German_RepRap_Official_Marlin
 
+Original Project GitHub: https://github.com/MarlinFirmware/Marlin
+Please check it first!
+
 ==========================
 Marlin 3D Printer Firmware
 ==========================
